@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Callmeicanhelp/u-develop-it#readme",
   "devDependencies": {
-    "jest": "^28.1.1"
+    "jest": "^28.1.1",
+    "nodemon": "^2.0.16"
   }
 }
